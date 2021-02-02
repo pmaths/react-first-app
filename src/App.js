@@ -7,8 +7,8 @@ function App(){
   const [users,setUsers]=useState(
     [
       {name :"Ed", message:"Hello there" },
-      {name :"Kanha", message:"Jai Ho"},
-      {name :"Keshav", message:"Radhe"}
+      {name :"John", message:"I am good"},
+      {name :"Bosh", message:"I am fine"}
     ]
   );
   // const [isRed,setRed]=useState(false);
